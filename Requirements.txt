@@ -1,0 +1,23 @@
+### Important Checklist for your GitHub Repository:
+
+1.  **`requirements.txt`**: Create a file named `requirements.txt` and paste this list into it so others can easily set up the environment:
+    ```text
+    pandas
+    numpy
+    scikit-learn
+    imblearn
+    joblib
+    gradio
+    matplotlib
+    seaborn
+    ```
+2.  **Screenshots**: Don't forget to take a screenshot of your **Gradio Dashboard** and your **Feature Importance graph**. Save them in a folder called `/images` and link them in the README using `![Dashboard](images/your_screenshot.png)`. This is the single most effective way to grab a recruiter's attention.
+
+3.  **Project Structure**: Keep your folder clean:
+    * `/notebooks`: Your `.ipynb` file.
+    * `/data`: Your `Finance_Trends.csv`.
+    * `/models`: Your `.pkl` files.
+    * `/images`: Your screenshots.
+    * `README.md`: The file above.
+    * `requirements.txt`: The dependencies.
+
