@@ -1,6 +1,7 @@
 # AI Wealth Manager & Risk Profiler
 
 A sophisticated AI-driven tool designed to analyze financial behavioral patterns and provide personalized portfolio recommendations. This project leverages machine learning to minimize human bias in financial decision-making.
+ ![Image Alt](https://github.com/SeifBarakat/AI-Wealth-Manager-Risk-Profiler/blob/4c6b6b3d155d3c3db3a440cfcce38ec0206d9d0e/GUI%20Image%20(2).png)
 
 ## 🚀 Project Overview
 This project is an End-to-End Machine Learning Pipeline that helps investors determine their "Risk Profile" (Aggressive, Moderate, or Conservative) and suggests an optimal Asset Allocation strategy.
